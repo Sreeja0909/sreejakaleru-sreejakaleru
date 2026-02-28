@@ -21,4 +21,4 @@ Data Structures • Algorithms • OOP • DBMS
 ## 📫 Connect with me
 
 LinkedIn: www.linkedin.com/in/sreeja-kaleru-6220182b9
-Portfolio: file:///C:/Users/PC/OneDrive/Desktop/uml/resumes%20and%20cv/Sreeja_DarkTech_Portfolio_Professional%20(2)/index.html
+Portfolio:file:///C:/Users/PC/OneDrive/Desktop/uml/resumes%20and%20cv/Sreeja_DarkTech_Portfolio_Professional%20(2)/index.html
